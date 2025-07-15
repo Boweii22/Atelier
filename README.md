@@ -1,3 +1,5 @@
+<img width="1920" height="1440" alt="22shots_so" src="https://github.com/user-attachments/assets/feae7d2f-8541-4d3d-b20b-909c7d4c0e30" />
+
 # Atelier E-Commerce
 
 A modern, visually stunning e-commerce web app for artisanal fashion brands. Built with React, Vite, and Tailwind CSS, Atelier features beautiful animations, dynamic product images, a persistent cart, and a polished, mobile-friendly design.
@@ -78,7 +80,7 @@ Atelier/
 ---
 
 ## 🙏 Credits
-- **Design & Code**: [Your Name]
+- **Design & Code**: [Bowei Tombri]
 - **Images**: [Pexels](https://www.pexels.com/)
 - **Fonts**: Playfair Display, Inter (Google Fonts)
 
